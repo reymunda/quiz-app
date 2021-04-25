@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import LessonPage from './user/LessonPage';
-import Lesson from './user/Lesson'
+import Routes from './Router/Routes'
+import Manage from './admin/Manage';
 function App() {
   return (
     <div className="App">
-      <Lesson/>
+      <Routes/>
     </div>
   );
 }

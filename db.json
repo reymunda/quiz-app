@@ -1,0 +1,114 @@
+{
+  "lesson": [
+    {
+      "id": 1,
+      "text": "Apa ibukota Indonesia?",
+      "option": [
+        {
+          "answer": "Jakarta",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bandung",
+          "isCorrect": false
+        },
+        {
+          "answer": "Medan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yogyakarta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Berikut bahasa merupakan bahasa pemrograman,kecuali",
+      "option": [
+        {
+          "answer": "Javascript",
+          "isCorrect": false
+        },
+        {
+          "answer": "Phyton",
+          "isCorrect": false
+        },
+        {
+          "answer": "C++",
+          "isCorrect": false
+        },
+        {
+          "answer": "HTML",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Pulau paling timur di Indonesia",
+      "option": [
+        {
+          "answer": "Sabang",
+          "isCorrect": false
+        },
+        {
+          "answer": "Miangas",
+          "isCorrect": true
+        },
+        {
+          "answer": "Merauke",
+          "isCorrect": false
+        },
+        {
+          "answer": "Yogyakarta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ibu Kota Jawa Barat",
+      "option": [
+        {
+          "answer": "Bandung",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sumedang",
+          "isCorrect": false
+        },
+        {
+          "answer": "Subang",
+          "isCorrect": false
+        },
+        {
+          "answer": "Garut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Tes",
+      "option": [
+        {
+          "answer": "1",
+          "isCorrect": true
+        },
+        {
+          "answer": "2",
+          "isCorrect": false
+        },
+        {
+          "answer": "3",
+          "isCorrect": false
+        },
+        {
+          "answer": "4",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

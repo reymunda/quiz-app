@@ -6,6 +6,7 @@ export const LessonProvider = props => {
     let [count,setCount] = useState(0)
     let [correct,setCorrect] = useState(0)
     let [point,setPoint] = useState(0)
+    let [quest,setQuest] = useState([])
     let [user,setUser] = useState([
         {
             id: 1,
@@ -14,7 +15,7 @@ export const LessonProvider = props => {
         }
     ])
     return(
-        <LessonContext.Provider value={[count,setCount,correct,setCorrect,point,setPoint,user,setUser]}>
+        <LessonContext.Provider value={[quest,setQuest,count,setCount,correct,setCorrect,point,setPoint,user,setUser]}>
             {props.children}
         </LessonContext.Provider>
     )
